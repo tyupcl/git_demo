@@ -11,4 +11,8 @@ public class HelloService {
 		}
 		return "Hello " + name;
 	}
+	
+	public void printStr(){
+		System.out.println("yes");
+	}
 }
